@@ -1,3 +1,4 @@
+"use client";
 import { projects } from "@/data";
 import { PinContainer } from "./ui/3dPin";
 import { FaLocationArrow } from "react-icons/fa";
