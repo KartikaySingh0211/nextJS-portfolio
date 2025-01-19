@@ -86,14 +86,13 @@ export const projects = [
 		iconLists: ["/re.svg", "/tail.svg", "/three.svg"],
 		link: "https://github.com/KartikaySingh0211/Portfolio",
 	},
-	// {
-	// 	id: 3,
-	// 	title: "This portfolio website",
-	// 	des: "Designed and developed my personal portfolio website using Next.js, Tailwindcss, TypeScript and AceternityUI .",
-	// 	img: "/p3.svg",
-	// 	iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/acet.svg"],
-
-	// },
+	{
+		id: 3,
+		title: "The Wild Oasis Website",
+		des: "An online cabin booking website built using Next.js, Tailwindcss and Supabase.",
+		img: "/p3.png",
+		iconLists: ["/next.svg", "/tail.svg"],
+	},
 ];
 
 export const companies = [
